@@ -3,6 +3,6 @@ Estrutura de mensagens dos sistemas NetForce
 
 ## Langs
 
- - [ ] pt_br
+ - [x] pt_br
  - [ ] en
  - [ ] es
