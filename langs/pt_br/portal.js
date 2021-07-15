@@ -5,6 +5,7 @@ module.exports = {
             acao_Q: 'Bilhete utilizado',
             acao_R: 'Bilhete re-impresso',
             acao_V: 'Bilhete re-validado',
+            acao_T: 'Troca de voucher',
         }
     }
 };
