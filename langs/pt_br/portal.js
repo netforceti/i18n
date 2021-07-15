@@ -3,8 +3,8 @@ module.exports = {
         bilhetelog: {
             acao_L: 'Bilhete lido',
             acao_Q: 'Bilhete utilizado',
-            acao_R: 'Bilhete re-impresso',
-            acao_V: 'Bilhete re-validado',
+            acao_R: 'Bilhete reimpresso',
+            acao_V: 'Bilhete revalidado',
             acao_T: 'Troca de voucher',
         }
     }
