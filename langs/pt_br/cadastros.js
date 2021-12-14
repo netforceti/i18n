@@ -19,5 +19,13 @@ module.exports = {
             nome: "Outras tabelas",
             tabelas_diversas: "Tabelas diversas",
         }
+    },
+
+    pessoas: {
+        situacao: {
+            atv: 'Ativo',
+            blo: 'Bloqueado',
+            pen: 'Pendente',
+        }
     }
 };
